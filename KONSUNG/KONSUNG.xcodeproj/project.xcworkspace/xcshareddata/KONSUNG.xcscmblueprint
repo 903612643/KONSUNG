@@ -1,0 +1,34 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8b6c444e-835b-471d-9d39-8e5a3e2d5d86++9718" : {
+
+    },
+    "344ff849-b234-5743-b47c-180cc8231db1++2164" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8b6c444e-835b-471d-9d39-8e5a3e2d5d86++9718" : 0,
+    "344ff849-b234-5743-b47c-180cc8231db1++2164" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "204F6366-C828-4964-A75D-3E9BB337A180",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8b6c444e-835b-471d-9d39-8e5a3e2d5d86++9718" : "KONSUNG20150924\/KONSUNG\/SBJSON\/",
+    "344ff849-b234-5743-b47c-180cc8231db1++2164" : "KONSUNG20150924\/KONSUNG\/ASIHTTPRequest\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KONSUNG",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "KONSUNG.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.0.125\/svn\/nb",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "344ff849-b234-5743-b47c-180cc8231db1++2164"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.1.185\/PrjMang",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8b6c444e-835b-471d-9d39-8e5a3e2d5d86++9718"
+    }
+  ]
+}

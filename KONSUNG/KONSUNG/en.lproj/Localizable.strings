@@ -1,0 +1,85 @@
+/* 
+  Localizable.strings
+  KONSUNG
+
+  Created by Foogeez on 15/6/19.
+  Copyright (c) 2015年 KONSUNG. All rights reserved.
+*/
+
+// NSLocalizedString(@"",nil)
+
+//____________________________________________________________
+// View Title
+
+"Konsung_System"      = "konsung health control system";//"康尚健康管理系统";
+"Login"               = "Login";//"登录";
+"User_Register"       = "User registration";// "用户注册";
+"Forget_Password"     = "Reset password";//"重置密码";
+"Edit_Detection_Data" = "Edit data";//"编辑数据";
+"Account_Setting"     = "My";//"账户设置";
+"Edit_Detection_Data" = "Edit test data";//"查看数据";
+"Modify_Password"     = "Changing password";//"修改密码";
+"About_Konsung"       = "About";//"关于";
+
+//____________________________________________________________
+// Label Text
+
+"unconnect"        = "Disconnected";//"未连接";
+"connect"          = "Connect";//"已连接";
+"get_data_success" = "Successfully acquired data";//"成功获取数据!"
+"spo2_normal"      = "spo2_normal";//"血氧状况正常";
+"spo2_abnormal"    = "spo2_abnormal";//"血氧状况不正常";
+"pr_normal"        = "Pulse wave normal";//"脉搏波动正常";
+"pr_abnormal"      = "Pulse wave abnormal";//"脉搏波动不正常";
+"data_updating"    = "Updating";//"正在更新...";
+
+"data" = "Data";//"数据";
+
+"old_password"      = "Old password";//"旧密码";
+"new_password"      = "New password";//"新密码";
+"confirm_password"  = "Confirm password";//"确认密码";
+"enter_old_pswd"    = "Enter old password";//"请输入旧密码";
+"enter_new_pswd"    = "Enter 6 digit password at least";//"请输入至少六位密码"
+"confirm_new_pswd"  = "Please reenter new password";//"请再次输入新密码";
+
+"enter_account"     = "Enter registered mail";//"请输入注册邮箱";
+"enter_username"    = "Enter username";//"请输入用户名";
+"enter_password"    = "Enter password";//"请输入密码";
+
+//____________________________________________________________
+// Alert Text
+
+"system_hint"       = "Warm tips";//"温馨提示";
+"register_success"  = "Registration Successful";// "注册成功";
+"register_failed"   = "User Registration failed";//"注册失败";
+"login_failed"      = "Login failed";//"登录失败";
+"network_is_error"  = "Your network may not be unstable, please make sure network is normal.";// "您的网络可能不正常，请确保您的网络正常！";
+"logout_account"    = "Whether to exit the current account";//"是否退出当前账号?";
+"login_account"     = "Login";//"请登录账号！"
+"fix_pswd_failed"   = "Change password failed";//"修改密码失败！"
+"old_pswd_error"    = "Please enter the correct old password";//"请输入正确的旧密码！"
+"new_pswd_error"    = "Please enter the correct new password";//"请输入正确的新密码！";
+"two_pswd_error"    = "Current code does not match the confirmed code.";//"请输入的密码跟确认密码不一致！"
+
+"enter_account_error"  = "Enter the correct account Email!";//"请输入正确的账号！";
+"enter_username_error" = "Enter the correct password";//"请输入正确的用户名！";
+"enter_pswd_error_test"  = "the password is wrong, plesse enter again.";//"请输入正确的密码！"
+
+//____________________________________________________________
+// Button Text
+
+"cancel"    = "Cancel";//"取消";
+"confirm"   = "Confirm";// "确定";
+"login"     = "Login";//"登录";
+"register"  = "Register";//"注册";
+"logout"    = "Logout";//"注销";
+"forget_password"    = "Forgot Password";//"忘记密码";
+"remember_password"  = "Remember password";//"记住密码";
+"modify_password"    = "Reset password";//"重置密码";
+"download_data"      = "Sync data";//"下载数据";
+"edit_data"          = "Edit data";//"编辑数据";
+
+"previous_date"  = "Previous";//"上次";
+"next_date"      = "Current";//"本次";
+
+"app_version"      = "V1.0.0-32";//版本号;
